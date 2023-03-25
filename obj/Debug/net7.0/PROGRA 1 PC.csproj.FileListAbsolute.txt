@@ -1,0 +1,31 @@
+C:\Users\Sistema\Desktop\PROGRA 1 PC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Sistema\Desktop\PROGRA 1 PC\bin\Debug\net7.0\appsettings.json
+C:\Users\Sistema\Desktop\PROGRA 1 PC\bin\Debug\net7.0\PROGRA 1 PC.staticwebassets.runtime.json
+C:\Users\Sistema\Desktop\PROGRA 1 PC\bin\Debug\net7.0\PROGRA 1 PC.exe
+C:\Users\Sistema\Desktop\PROGRA 1 PC\bin\Debug\net7.0\PROGRA 1 PC.deps.json
+C:\Users\Sistema\Desktop\PROGRA 1 PC\bin\Debug\net7.0\PROGRA 1 PC.runtimeconfig.json
+C:\Users\Sistema\Desktop\PROGRA 1 PC\bin\Debug\net7.0\PROGRA 1 PC.dll
+C:\Users\Sistema\Desktop\PROGRA 1 PC\bin\Debug\net7.0\PROGRA 1 PC.pdb
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\PROGRA 1 PC.csproj.AssemblyReference.cache
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\PROGRA 1 PC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\PROGRA 1 PC.AssemblyInfoInputs.cache
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\PROGRA 1 PC.AssemblyInfo.cs
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\PROGRA 1 PC.csproj.CoreCompileInputs.cache
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\PROGRA 1 PC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\PROGRA 1 PC.RazorAssemblyInfo.cache
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\PROGRA 1 PC.RazorAssemblyInfo.cs
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\staticwebassets\msbuild.PROGRA 1 PC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\staticwebassets\msbuild.build.PROGRA 1 PC.props
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PROGRA 1 PC.props
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PROGRA 1 PC.props
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\scopedcss\bundle\PROGRA 1 PC.styles.css
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\scopedcss\projectbundle\PROGRA 1 PC.bundle.scp.css
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\PROGRA 1 PC.dll
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\refint\PROGRA 1 PC.dll
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\PROGRA 1 PC.pdb
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\PROGRA 1 PC.genruntimeconfig.cache
+C:\Users\Sistema\Desktop\PROGRA 1 PC\obj\Debug\net7.0\ref\PROGRA 1 PC.dll

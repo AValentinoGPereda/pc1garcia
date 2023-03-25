@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PROGRA 1 PC.props" />
+</Project>

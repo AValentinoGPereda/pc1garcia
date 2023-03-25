@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    @{
+        ViewData["Title"] = "Home Page";
+    }
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <title>Pago con Tarjeta</title>
+  </head>
+  <body>
+    <h1>Pago con Tarjeta</h1>
+    <form>
+      <label for="numero_tarjeta">Número de Tarjeta:</label>
+      <input type="text" id="numero_tarjeta" name="numero_tarjeta" required>
+      
+      <label for="fecha_pago">Fecha de Vencimiento Pago:</label>
+      <input type="date" id="fecha_pago" name="fecha_pago" required><br><br>
+
+      <label for="monto">Monto a Pagar:</label>
+      <input type="number" id="monto" name="monto" required><br><br>
+
+      <input type="button" value="Calcular Pago Total" onclick="calcularPago()"><br><br>
+
+      <label for="pago_total">Pago Total:</label>
+      <input type="text" id="pago_total" name="pago_total" readonly>
+    </form>
+
+    <script>
+      function calcularPago() {
+        const monto = parseFloat(document.getElementById("monto").value);
+        const fechaPago = new Date(document.getElementById("fecha_pago").value);
+        const hoy = new Date();
+
+        const diasAtraso = Math.max(0, Math.floor((hoy - fechaPago) / (24 * 60 * 60 * 1000)));
+        const mora = monto * 0.00005 * diasAtraso;
+        const pagoTotal = monto + mora;
+
+        document.getElementById("pago_total").value = pagoTotal.toString();
+      }
+    </script>
+
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

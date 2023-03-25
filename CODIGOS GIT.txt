@@ -1,0 +1,11 @@
+dotnet new mvc
+git init
+git config --global user.email angel_garcia3@usmp.pe
+git config --global user.name AValentinoGPereda
+git remote add origin url 
+git status
+git add .
+git status
+git commit -m "try"
+git push -u origin master
+

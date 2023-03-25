@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PROGRA 1 PC/1.0.0": {
+        "runtime": {
+          "PROGRA 1 PC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROGRA 1 PC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
